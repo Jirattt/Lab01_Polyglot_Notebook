@@ -2,5 +2,5 @@
 
 Hello I'm Tae.
 
-#Jirat
-##Nakchea
+## Engineering Education
+### Computer technology
