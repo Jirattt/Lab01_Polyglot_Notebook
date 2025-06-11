@@ -3,5 +3,4 @@
 Hello I'm Tae.
 
 #Jirat
-
 #Nakchea
